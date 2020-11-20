@@ -9,6 +9,7 @@ Within the template, Steve Chang and Ross Hutton are also credited for contribut
 Some code snippets have also been taken from Parallax Inc., and adapted to suit the project's requirements. These adaptations were carried out by the team members of ELEC1601_M09_11 and ELEC1601_M09_16 (which eventually merged into one group). The team members consisted of: Ehab El Cheikh, James Jun, Haowen Lan, Bernard Tam, Jing Weng and Yilin Zhang. 
 
 The aforementioned code snippets come from the folllowing pages:
+
 https://learn.parallax.com/tutorials/robot/shield-bot/robotics-board-education-shield-arduino/chapter-7-navigating-infrared-10
 
 https://learn.parallax.com/tutorials/robot/shield-bot/robotics-board-education-shield-arduino/chapter-7-navigating-infrared-9
