@@ -10,8 +10,12 @@ Some code snippets have also been taken from Parallax Inc., and adapted to suit 
 
 The aforementioned code snippets come from the folllowing pages:
 https://learn.parallax.com/tutorials/robot/shield-bot/robotics-board-education-shield-arduino/chapter-7-navigating-infrared-10
+
 https://learn.parallax.com/tutorials/robot/shield-bot/robotics-board-education-shield-arduino/chapter-7-navigating-infrared-9
+
 https://learn.parallax.com/tutorials/robot/shield-bot/robotics-board-education-shield-arduino/chapter-7-navigating-infrared-6 
+
 https://learn.parallax.com/tutorials/robot/shield-bot/robotics-board-education-shield-arduino/chapter-7-navigating-infrared-5
+
 
 In the unlikely event of any omission of rightful credit, please create an issue in this GitHub project and credit will given where it is rightfully due, at the earliest convenience. 
