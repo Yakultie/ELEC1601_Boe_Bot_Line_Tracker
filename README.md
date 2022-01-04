@@ -19,4 +19,4 @@ https://learn.parallax.com/tutorials/robot/shield-bot/robotics-board-education-s
 https://learn.parallax.com/tutorials/robot/shield-bot/robotics-board-education-shield-arduino/chapter-7-navigating-infrared-5
 
 
-In the unlikely event of any omission of rightful credit, please create an issue in this GitHub project and credit will given where it is rightfully due, at the earliest convenience. 
+In the unlikely event of any omission of rightful credit, please create an issue in this GitHub project and credit will be given where it is rightfully due, at the earliest convenience. 
